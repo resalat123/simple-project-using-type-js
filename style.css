@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#backImage {
+    background-image: url("img/romancarey.jpg");
+    background-size: cover;
+    
+    background-position: center center;
+    height: 100vh;
+  }
+
+
+  h1{
+      
+    color: #62ACB5;
+    font-size: 4em;
+    position: relative;
+    left: 60px;
+    top: 380px;
+    display: inline-block;
+  }
+  .spanColor{
+      color: #D88D0E;
+  }
+  .typed-cursor {
+    color: #D88D0E;
+}
